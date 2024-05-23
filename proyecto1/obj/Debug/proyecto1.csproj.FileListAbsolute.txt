@@ -1,0 +1,7 @@
+C:\Users\WOOLKER\source\repos\proyecto1\proyecto1\bin\Debug\proyecto1.exe.config
+C:\Users\WOOLKER\source\repos\proyecto1\proyecto1\bin\Debug\proyecto1.exe
+C:\Users\WOOLKER\source\repos\proyecto1\proyecto1\bin\Debug\proyecto1.pdb
+C:\Users\WOOLKER\source\repos\proyecto1\proyecto1\obj\Debug\proyecto1.csproj.AssemblyReference.cache
+C:\Users\WOOLKER\source\repos\proyecto1\proyecto1\obj\Debug\proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\WOOLKER\source\repos\proyecto1\proyecto1\obj\Debug\proyecto1.exe
+C:\Users\WOOLKER\source\repos\proyecto1\proyecto1\obj\Debug\proyecto1.pdb
